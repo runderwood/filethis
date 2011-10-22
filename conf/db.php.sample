@@ -1,0 +1,7 @@
+<?php
+return array(
+    'host' => 'localhost',
+    'name' => 'filethis',
+    'user' => 'filethis',
+    'password' => 'filethis'
+);

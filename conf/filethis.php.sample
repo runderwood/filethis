@@ -1,0 +1,4 @@
+<?php
+return array(
+    'data_dir' => dirname(dirname(__FILE__)).'/dat/'
+);
