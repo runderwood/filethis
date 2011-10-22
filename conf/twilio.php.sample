@@ -2,5 +2,5 @@
 return array(
     'sid' => '',
     'auth_token' => '',
-    'inbound_number' => '+16175001441'
+    'inbound_number' => ''
 );
